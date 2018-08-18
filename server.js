@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const app = express();
 
 //Setting initial post
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.PORT || 3030;
 
 //Body parsing
 app.use(bodyParser.urlencoded({ extended: true }));

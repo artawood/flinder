@@ -1,2 +1,2 @@
-![alt text](https://raw.githubusercontent.com/artawood/flinder/md-images/fire.png) 
+![alt text](https://github.com/artawood/flinder/blob/master/md-images/fire.png) 
 # Flinder
